@@ -4,7 +4,7 @@ title: Related Publications
 
 ### ASK 2019:
 
-- Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, Yusuke Naito: *Highly Secure Nonce-based MACs from the Sum of Tweakable Block Ciphers*, **ToSC 2020-4 / FSE 2021**
+- Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, Yusuke Naito: *Highly Secure Nonce-based MACs from the Sum of Tweakable Block Ciphers*, **ToSC 2020-4 / FSE 2021**.
 - Dhiman Saha, Yu Sasaki, Danping Shi, Ferdinand Sibleyras, Siwei Sun, Yingjie Zhang: *On the Security Margin of TinyJAMBU with Refined Differential and Linear Cryptanalysis*, **ToSC 2020-3 / FSE 2020**.
 - Carlos Cid, Akinori Hosoyamada, Yunwen Liu, Siang Meng Sim: *Quantum Cryptanalysis on Contracting Feistel Structures and Observation on Related-key settings*, **Indocrypt 2020**.
   
