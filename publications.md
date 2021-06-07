@@ -2,22 +2,23 @@
 title: Related Publications
 ---
 
-### ASK 2019
+### ASK 2019:
 
+- Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, Yusuke Naito: *Highly Secure Nonce-based MACs from the Sum of Tweakable Block Ciphers*, **ToSC 2020-4* / FSE 2021*
+- Dhiman Saha, Yu Sasaki, Danping Shi, Ferdinand Sibleyras, Siwei Sun, Yingjie Zhang: *On the Security Margin of TinyJAMBU with Refined Differential and Linear Cryptanalysis*, **ToSC 2020-3 / FSE 2020**.
 - Carlos Cid, Akinori Hosoyamada, Yunwen Liu, Siang Meng Sim: *Quantum Cryptanalysis on Contracting Feistel Structures and Observation on Related-key settings*, **Indocrypt 2020**.
-- Dhiman Saha, Yu Sasaki, Danping Shi, Ferdinand Sibleyras, Siwei Sun, Yingjie Zhang: *On the Security Margin of TinyJAMBU with Refined Differential and Linear Cryptanalysis*, **FSE 2021**.
-
-### ASK 2018
+  
+### ASK 2018:
 
 - Donghoon Chang, Nilanjan Datta, Avijit Dutta, Bart Mennink, Mridul Nandi, Somitra Sanadhya and Ferdinand Sibleyras: *Release of Unverified Plaintext: Tight Unified Model and Application to ANYDAE*, **FSE 2019**.
 - Subhadeep Banik, Jannis Bossert, Amit Jana, Eik List, Stefan Lucks, Willi Meier, Mostafizar Rahman, Dhiman Saha, Yu Sasaki: *Cryptanalysis of ForkAES*, **ACNS 2019**.
 - Shoichi Hirose, Yu Sasaki, Hirotaka Yoshida: *Lesamnta-LW Revisited: Improved Security Analysis of Primitive and New PRF Mode*, **ACNS 2020**.
-
-### ASK 2017
+  
+### ASK 2017:
 
 - Yunwen Liu, Yu Sasaki, Ling Song, Gaoli Wang: *Cryptanalysis of Reduced sLiSCP Permutation in Sponge-Hash and Duplex-AE Modes*, **SAC 2018**.
 - Patrick Derbez, Tetsu Iwata, Ling Sun, Siwei Sun, Yosuke Todo, Haoyang Wang, Meiqin Wang: *Cryptanalysis of AES-PRF and Its Dual*, **FSE 2019**.
-
+  
 ### ASK 2016:
 
 - Ashwin Jha, Eik List, Kazuhiko Minematsu, Sweta Mishra, Mridul Nandi: *XHX - A Framework for Optimally Secure Tweakable Block Ciphers from Classical Block Ciphers and Universal Hashing*, **LatinCrypt 2017**.
