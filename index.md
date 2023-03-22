@@ -9,6 +9,7 @@ Any researcher (even not based in Asia) is welcome to contact us for participanc
 
 
 # News
+- 2023-03: [ASK 2023](https://askworkshop.github.io/ask2023/) to be held in Jinan University, Guangzhou, China ! 
 - 2019-06: [ASK 2019](https://askworkshop.github.io/ask2019/) to be held in Hyogo University, Japan ! 
 - 2016-09-29: Announcement of [ASK 2017](http://www1.spms.ntu.edu.sg/~ask/2017/) by Meicheng Liu.
 - 2015-03-10: Advertisement of [ASK 2015](http://www1.spms.ntu.edu.sg/~ask/2015/) and DIAC 2015 at FSE 2015 by Thomas Peyrin.
