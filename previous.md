@@ -6,7 +6,7 @@ title: Previous ASK
 |                                                    | Country   | Host                                            | General Chair(s)                	     |  overseas/total attendees     |
 |---------------------------------------------------:|:---------:|:-----------------------------------------------:|:---------------------------------------:|:-----:|
 | [ASK 2024](https://askworkshop.github.io/ask2024/) | `India`     | Kolkata, India                                  | Mridul Nandi and Somitra Sanadhya       | - / - |
-| [ASK 2023](https://askworkshop.github.io/ask2023/) | `China`     | Jinan University, Guangzhou                     | Yaobin Shen and Ling Song   	           | - / - |
+| [ASK 2023](https://askworkshop.github.io/ask2023/) | `China`     | Jinan University, Guangzhou                     | Yaobin Shen and Ling Song   	           | 35 / 92 |
 | [ASK 2019](https://askworkshop.github.io/ask2019/) | `Japan`     | University of Hyogo, Kobe                       | Takanori Isobe and Yu Sasaki	           | 37 / 47 |
 | [ASK 2018](https://www.isical.ac.in/~ask2018/)     | `India`     | Indian Statistical Institute, Kolkata           | Subhamoy Maitra and Mridul Nandi	     |  26 / 60  |
 | [ASK 2017](http://www1.spms.ntu.edu.sg/~ask/2017/) | `China`     | National University of Defense Technology       | Meicheng Liu and Bing Sun	             | 19 / 83 |
