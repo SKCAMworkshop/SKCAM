@@ -1,8 +1,8 @@
-title: The Asian Workshop on Symmetric Key Cryptography (ASK)
-author: ASK
+title: The Workshop on Symmetric-key Cryptanalysis Automation and Modelling (SKCAM)
+author: SKCAM
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  The Asian-workshop on Symmetric Key Cryptography (ASK workshop)
+  The Workshop on Symmetric-key Cryptanalysis Automation and Modelling (SKCAM)
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -41,7 +41,6 @@ minima:
 header_pages:
  - index.md 
  - previous.md
- - publications.md
 
   
 # Build settings
